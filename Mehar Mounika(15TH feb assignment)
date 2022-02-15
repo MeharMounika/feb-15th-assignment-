@@ -1,0 +1,15 @@
+a=int(input(""))
+b=int(input(""))
+c=a+b
+d=a-b
+e=a*b
+print(c)
+print(d)
+print(e)
+
+OUTPUT:
+enter a value6
+enter b value14
+20
+-8
+84
